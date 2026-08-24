@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Carter Warrens</title>
+  <desc id="desc">Wall Street rigor, delivered at your scale. Program leadership, strategic execution, and governed systems.</desc>
+  <defs>
+    <radialGradient id="burgundyGlow" cx="88%" cy="12%" r="78%">
+      <stop offset="0" stop-color="#7f2434" stop-opacity=".58"/>
+      <stop offset="1" stop-color="#0d1828" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#b88b44"/>
+      <stop offset="1" stop-color="#e0c58c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="440" rx="12" fill="#0d1828"/>
+  <rect width="1280" height="440" rx="12" fill="url(#burgundyGlow)"/>
+  <g opacity=".12" fill="none">
+    <circle cx="1115" cy="72" r="270" stroke="#d1ad6f" stroke-width="2"/>
+    <circle cx="1115" cy="72" r="205" stroke="#ffffff"/>
+    <circle cx="1115" cy="72" r="140" stroke="#b14255"/>
+    <path d="M935 0v440M1015 0v440M1095 0v440M1175 0v440M1255 0v440" stroke="#ffffff"/>
+  </g>
+  <g transform="translate(70 56)">
+    <rect width="66" height="66" rx="3" fill="none" stroke="#a93448" stroke-width="2"/>
+    <text x="33" y="42" fill="#f8f4ed" font-family="Georgia, serif" font-size="24" text-anchor="middle">CW</text>
+    <path d="M17 52h32" stroke="url(#gold)" stroke-width="3"/>
+  </g>
+  <text x="70" y="206" fill="#f8f4ed" font-family="Georgia, serif" font-size="68" letter-spacing="1">Carter Warrens</text>
+  <path d="M70 235h128" stroke="url(#gold)" stroke-width="4"/>
+  <text x="70" y="292" fill="#ffffff" fill-opacity=".84" font-family="Arial, sans-serif" font-size="21" letter-spacing="4">PROGRAM LEADERSHIP · STRATEGIC EXECUTION</text>
+  <text x="70" y="343" fill="#ffffff" fill-opacity=".52" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">WALL STREET RIGOR, DELIVERED AT YOUR SCALE.</text>
+  <g transform="translate(70 390)" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">
+    <text fill="#d5b36f">DIAGNOSE</text><text x="112" fill="#ffffff" fill-opacity=".35">→</text>
+    <text x="148" fill="#d5b36f">BLUEPRINT</text><text x="274" fill="#ffffff" fill-opacity=".35">→</text>
+    <text x="310" fill="#d5b36f">EXECUTE</text><text x="411" fill="#ffffff" fill-opacity=".35">→</text>
+    <text x="447" fill="#d5b36f">TRANSFER</text>
+  </g>
+</svg>
