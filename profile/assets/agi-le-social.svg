@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">AGI-LE — Intelligence, on a lease</title>
+  <desc id="desc">Carter Warrens social preview for AGI-LE, a governed intelligence system for lean enterprise.</desc>
+  <rect width="1280" height="640" fill="#f1efea"/>
+
+  <g fill="none" stroke="#151717" stroke-width="1" opacity=".13">
+    <path d="M0 108H1280M0 532H1280"/>
+    <path d="M80 0V640M1200 0V640"/>
+  </g>
+
+  <g font-family="'Courier New', Courier, monospace" fill="#151717">
+    <text x="80" y="76" font-size="17" font-weight="700" letter-spacing="4">CARTER WARRENS · AGENTIC SYSTEMS</text>
+    <text x="80" y="250" font-size="134" font-weight="700" letter-spacing="8">AGI</text>
+    <text x="333" y="250" font-size="134" font-weight="700" fill="#e4c625">-</text>
+    <text x="421" y="250" font-size="134" font-weight="700" letter-spacing="8">LE</text>
+    <text x="84" y="310" font-family="Arial, Helvetica, sans-serif" font-size="39" letter-spacing=".4">Intelligence, on a lease.</text>
+    <text x="84" y="380" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#4f5553">Loose coupling creates agility.</text>
+    <text x="84" y="416" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#4f5553">Governance prevents drift.</text>
+  </g>
+
+  <g transform="translate(790 142)">
+    <path d="M200 34V314" stroke="#151717" stroke-width="3"/>
+    <circle cx="200" cy="34" r="8" fill="#e4c625"/>
+    <circle cx="200" cy="314" r="8" fill="#167a57"/>
+
+    <g fill="#f1efea" stroke="#151717" stroke-width="2">
+      <rect x="0" y="70" width="154" height="70"/>
+      <rect x="246" y="70" width="154" height="70"/>
+      <rect x="0" y="208" width="154" height="70"/>
+      <rect x="246" y="208" width="154" height="70"/>
+      <rect x="123" y="139" width="154" height="70" fill="#151717"/>
+    </g>
+    <g stroke="#151717" stroke-width="2">
+      <path d="M154 105H200M200 105H246M154 243H200M200 243H246"/>
+    </g>
+    <g font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.7">
+      <text x="77" y="112" fill="#151717">WORKSTREAM 01</text>
+      <text x="323" y="112" fill="#151717">WORKSTREAM 02</text>
+      <text x="77" y="250" fill="#151717">WORKSTREAM 03</text>
+      <text x="323" y="250" fill="#151717">WORKSTREAM 04</text>
+      <text x="200" y="174" fill="#f1efea">GOVERNANCE</text>
+      <text x="200" y="191" fill="#e4c625" font-size="10">SHARED CONTROL</text>
+    </g>
+  </g>
+
+  <g font-family="'Courier New', Courier, monospace" font-size="15" font-weight="700" letter-spacing="2.4">
+    <text x="80" y="579" fill="#151717">AGI LEAN ENTERPRISE</text>
+    <circle cx="881" cy="573" r="6" fill="#e4c625"/>
+    <text x="902" y="579" fill="#151717">SIT / UAT · PRE-RELEASE</text>
+  </g>
+</svg>
