@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Carter Warrens Publications</title>
+  <desc id="desc">Research and long-form thinking on institutions, technology, governance, risk, and human agency.</desc>
+  <rect width="1280" height="640" rx="16" fill="#f5f1ea"/>
+  <rect x="0" width="28" height="640" fill="#7f2434"/>
+  <path d="M88 100h1104M88 548h1104" stroke="#0d1828" stroke-opacity=".18"/>
+  <circle cx="1080" cy="170" r="210" fill="none" stroke="#7f2434" stroke-opacity=".13" stroke-width="3"/>
+  <circle cx="1080" cy="170" r="150" fill="none" stroke="#b88b44" stroke-opacity=".22"/>
+  <text x="88" y="78" fill="#7f2434" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">CARTER WARRENS · RESEARCH &amp; INSIGHTS</text>
+  <text x="88" y="252" fill="#0d1828" font-family="Georgia, 'Times New Roman', serif" font-size="92">Ideas built</text>
+  <text x="88" y="354" fill="#0d1828" font-family="Georgia, 'Times New Roman', serif" font-size="92">for use.</text>
+  <path d="M88 398h154" stroke="#b88b44" stroke-width="6"/>
+  <text x="88" y="462" fill="#0d1828" fill-opacity=".66" font-family="Arial, sans-serif" font-size="25">Institutions · Technology · Governance · Risk · Human Agency</text>
+  <text x="1192" y="588" fill="#0d1828" fill-opacity=".45" font-family="Arial, sans-serif" font-size="17" text-anchor="end" letter-spacing="2">CARTERWARRENS.COM</text>
+</svg>

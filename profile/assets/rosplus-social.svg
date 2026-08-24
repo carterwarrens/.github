@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">ROSPlus by Carter Warrens</title>
+  <desc id="desc">Faster where it matters. Compatible where it counts. Safe when software fails.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10243a"/>
+      <stop offset="1" stop-color="#07111e"/>
+    </linearGradient>
+    <radialGradient id="signal" cx="83%" cy="28%" r="58%">
+      <stop offset="0" stop-color="#30d5c8" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#30d5c8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="640" rx="16" fill="url(#panel)"/>
+  <rect width="1280" height="640" rx="16" fill="url(#signal)"/>
+  <g transform="translate(900 62)" fill="none" stroke="#55dfd3" stroke-opacity=".3">
+    <circle cx="160" cy="160" r="146" stroke-width="3"/>
+    <circle cx="160" cy="160" r="105"/>
+    <circle cx="160" cy="160" r="62"/>
+    <path d="M14 160h292M160 14v292M57 57l206 206M263 57L57 263"/>
+    <circle cx="160" cy="160" r="8" fill="#55dfd3" stroke="none"/>
+  </g>
+  <text x="72" y="95" fill="#d5b36f" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">CARTER WARRENS · ROBOTICS SYSTEMS</text>
+  <text x="72" y="264" fill="#f8f4ed" font-family="Arial, sans-serif" font-size="112" font-weight="700">ROS<tspan fill="#55dfd3">Plus</tspan></text>
+  <text x="72" y="348" fill="#ffffff" fill-opacity=".78" font-family="Arial, sans-serif" font-size="30">The performance and safety layer for ROS 2.</text>
+  <path d="M72 397h160" stroke="#55dfd3" stroke-width="5"/>
+  <text x="72" y="472" fill="#ffffff" fill-opacity=".58" font-family="Arial, sans-serif" font-size="21" letter-spacing="2">FASTER WHERE IT MATTERS.</text>
+  <text x="72" y="514" fill="#ffffff" fill-opacity=".58" font-family="Arial, sans-serif" font-size="21" letter-spacing="2">COMPATIBLE WHERE IT COUNTS.</text>
+  <text x="72" y="556" fill="#ffffff" fill-opacity=".58" font-family="Arial, sans-serif" font-size="21" letter-spacing="2">SAFE WHEN SOFTWARE FAILS.</text>
+  <text x="1208" y="588" fill="#ffffff" fill-opacity=".35" font-family="Arial, sans-serif" font-size="16" text-anchor="end" letter-spacing="2">ROS 2 ADD-ON · REFERENCE IMPLEMENTATION</text>
+</svg>
